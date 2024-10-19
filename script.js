@@ -1,4 +1,4 @@
-const apiKey = 'DFOV5O4WI2VHO789';
+const apiKey = '8T1AHQ13E0DVHCG1';
 const stockSearch = document.getElementById('stockSearch');
 const searchButton = document.getElementById('searchButton');
 const stockDetails = document.getElementById('stockDetails');
